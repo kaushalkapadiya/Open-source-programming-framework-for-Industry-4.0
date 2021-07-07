@@ -1,0 +1,14 @@
+{
+	"ditto":{
+ 		"READ": true,
+ 		"WRITE": true,
+ 		"ADMINISTRATE": true
+	}
+}
+{
+	"authorisationsubject1":{
+ 		"READ": true,
+ 		"WRITE": true,
+ 		"ADMINISTRATE": true
+	}
+}

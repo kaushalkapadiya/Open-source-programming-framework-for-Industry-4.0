@@ -1,0 +1,173 @@
+{
+  "device": {
+    "deviceID": "device-001"
+  },
+  "measurements": [
+    {
+      "ts": "2018-11-17T18:13:08.205586+05:30",
+      "result": "OK",
+      "series": {
+        "$_time": [
+          0
+        ],
+        "rms.x": [
+          11.029159575398387
+        ],
+        "rms.y": [
+          0.9948208508373756
+        ],
+        "rms.z": [
+          1.4954372950192194
+        ],
+        "skewness.x": [
+          -0.15336864014516252
+        ],
+        "skewness.y": [
+          -0.0017978633445505498
+        ],
+        "skewness.z": [
+          -0.030553187194228126
+        ],
+        "deviation.x": [
+          0.4604183505282917
+        ],
+        "deviation.y": [
+          0.2745409035611802
+        ],
+        "deviation.z": [
+          0.7501121596607814
+        ]
+      }
+    }
+  ],
+  "content-spec": "urn:spec://eclipse.org/unide/measurement-message#v2"
+}{
+  "device": {
+    "deviceID": "device-001"
+  },
+  "measurements": [
+    {
+      "ts": "2018-11-17T18:43:28.780020+05:30",
+      "result": "OK",
+      "series": {
+        "$_time": [
+          0
+        ],
+        "rms.x": [
+          10.997285865540157
+        ],
+        "rms.y": [
+          0.9753361273792353
+        ],
+        "rms.z": [
+          1.4336616637303232
+        ],
+        "skewness.x": [
+          -0.11483252011443845
+        ],
+        "skewness.y": [
+          -0.04558264418239532
+        ],
+        "skewness.z": [
+          0.023925365556073344
+        ],
+        "deviation.x": [
+          0.4551387366301374
+        ],
+        "deviation.y": [
+          0.24867802695448432
+        ],
+        "deviation.z": [
+          0.6966364525475217
+        ]
+      }
+    }
+  ],
+  "content-spec": "urn:spec://eclipse.org/unide/measurement-message#v2"
+}{
+  "device": {
+    "deviceID": "device-001"
+  },
+  "measurements": [
+    {
+      "ts": "2018-11-17T18:45:38.612065+05:30",
+      "result": "OK",
+      "series": {
+        "$_time": [
+          0
+        ],
+        "rms.x": [
+          11.075831984851837
+        ],
+        "rms.y": [
+          1.1068753726599572
+        ],
+        "rms.z": [
+          1.5775245835906928
+        ],
+        "skewness.x": [
+          0.14022286292103386
+        ],
+        "skewness.y": [
+          0.04425486141339723
+        ],
+        "skewness.z": [
+          0.2708629415117937
+        ],
+        "deviation.x": [
+          0.6681338775057286
+        ],
+        "deviation.y": [
+          0.5696621078777192
+        ],
+        "deviation.z": [
+          0.871783286026698
+        ]
+      }
+    }
+  ],
+  "content-spec": "urn:spec://eclipse.org/unide/measurement-message#v2"
+}{
+  "device": {
+    "deviceID": "device-001"
+  },
+  "measurements": [
+    {
+      "ts": "2018-11-17T18:46:45.537369+05:30",
+      "result": "OK",
+      "series": {
+        "$_time": [
+          0
+        ],
+        "rms.x": [
+          11.004352173724346
+        ],
+        "rms.y": [
+          1.0907626448270165
+        ],
+        "rms.z": [
+          1.5515863051936776
+        ],
+        "skewness.x": [
+          0.03126070459401323
+        ],
+        "skewness.y": [
+          -0.18176917369686169
+        ],
+        "skewness.z": [
+          -0.1378660365937587
+        ],
+        "deviation.x": [
+          0.6158988804305328
+        ],
+        "deviation.y": [
+          0.5324954548166436
+        ],
+        "deviation.z": [
+          0.7265747139581188
+        ]
+      }
+    }
+  ],
+  "content-spec": "urn:spec://eclipse.org/unide/measurement-message#v2"
+}

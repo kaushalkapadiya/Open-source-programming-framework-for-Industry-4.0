@@ -1,0 +1,43 @@
+{
+  "topic": "myfirst.ditto/id-1/things/twin/command/create",
+  "headers": {},
+  "path":"/",
+  "value": {
+    "__schemaVersion": 2,
+    "__lifecycle":"Active",
+    "_revision":1,
+    "_namespace":"myfirst.ditto",
+    "thingId":"myfirst.diitto:id-1",
+    "policyId":"myfirst.ditto:the_policy_id",
+    },
+    "acl": {
+ 	"ditto":{
+ 		"READ": true,
+ 		"WRITE": true,
+ 		"ADMINISTRATE": true
+	},
+
+	"authorisationsubject1":{
+ 		"READ": true,
+ 		"WRITE": true,
+ 		"ADMINISTRATE": true
+	}
+    },
+    "attributes": {
+      "location": {
+        "latitude": 5678,
+        "longitude": 9876
+      }
+    },
+    "features":{
+      "feature1":{
+        "properties":{
+          "a":0,
+          "m":90
+        }
+      }
+    }
+
+
+
+}
